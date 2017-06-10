@@ -16,7 +16,7 @@ Switch Classes | Ctrl + j
 Find on page | Ctrl + f
 Close Window | Ctrl + w
 Jump to method | Ctrl + Shift + up/down
-Move between words horizontally | Ctrl + left/right arrow
+Move between words horizontally | Ctrl + left/right arrow (even works between camelCase!)
 Move to Beginning/End of document | Page Up/ Page Down
 Highlight entire line of code | Shift + Ctrl + Home/End (+ Up/Down to highlight code blocks)
 System.out.println(); | "Sout”, Ctrl + Space
@@ -29,6 +29,7 @@ REDO | Ctrl + y
 COPY | Ctrl + c
 COPY & Delete | Ctrl + x
 PASTE | Ctrl + v
+Make Note | Strl + /
 
 ** eclipse told me 'obnoxious' is 'not correctly spelled'... was it just trying to be... obnoxious???
 
