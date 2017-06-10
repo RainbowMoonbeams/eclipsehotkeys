@@ -1,0 +1,34 @@
+###### obnoxious header!!
+
+### - eclipse shortcuts* -
+
+# guys, shortcuts are the wave of the future.
+# coding will be SO. MUCH. FASTERRRR
+# learn these tips and you'll be coding at lightening speed in no time!
+
+task | command
+--------------------|--------------------
+Beginning of line | Home
+End of line | End
+Delete current line | Ctrl + D
+Insert line above current line | Ctrl +Shift + Enter
+Switch Classes | Ctrl + j
+Find on page | Ctrl + f
+Jump to method | Ctrl + Shift + up/down
+Move between words horizontally | Ctrl + left/right arrow
+Move to Beginning/End of document | Page Up/ Page Down
+Highlight entire line of code | Shift + Ctrl + Home/End (+ Up/Down to highlight code blocks)
+Fill-in/complete word | type a few letters, Ctrl + Space
+Move entire line/code block | highlight all, Alt + up or down arrow
+Format alignment | Ctrl + Shift + f
+New Project/Class/Anything... | Ctrl + n
+UNDO | Ctrl + z
+REDO | Ctrl + y
+System.out.println(); | Sout”, Ctrl + Space
+COPY | Ctrl + c
+COPY & Delete | Ctrl + x
+PASTE | Ctrl + v
+
+
+* this document is a work in progress! if you find any shortcuts, let me know and I'll add them to the list
+P.S. if you see any spelling errors, or if something isn't working correctly, let me know. I'm had a few drinks... :P
