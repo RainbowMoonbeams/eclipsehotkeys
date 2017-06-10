@@ -1,6 +1,10 @@
 # GitHub!
 
+-------------------------------------------------------------------------------------------------
+
 ### Uploading to a New Repository
+
+-------------------------------------------------------------------------------------------------
 
 Create (or copy & paste from a previous file) the .gitignore file into the file you want to upload.
 
@@ -29,7 +33,11 @@ git status | should return "working tree clean" (everything worked as expected)
 
 Refresh your GitHub page and you'll see the files you uploaded.
 
+-------------------------------------------------------------------------------------------------
+
 ### Uploading to an Established Repository
+
+-------------------------------------------------------------------------------------------------
 
 command | explanation
 --------|--------
