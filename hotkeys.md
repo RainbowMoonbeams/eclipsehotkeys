@@ -24,7 +24,7 @@ Format alignment | Ctrl + Shift + f
 New Project/Class/Anything... | Ctrl + n
 UNDO | Ctrl + z
 REDO | Ctrl + y
-System.out.println(); | Sout”, Ctrl + Space
+System.out.println(); | "Sout”, Ctrl + Space
 COPY | Ctrl + c
 COPY & Delete | Ctrl + x
 PASTE | Ctrl + v
