@@ -30,5 +30,7 @@ COPY & Delete | Ctrl + x
 PASTE | Ctrl + v
 
 * eclipse told me 'obnoxious' is 'not correctly spelled'... was it just trying to be... obnoxious???
+
 ** this document is a work in progress! if you find any shortcuts, let me know and I'll add them to the list
+
 P.S. if you see any spelling errors, or if something isn't working correctly, let me know. I'm had a few drinks... :P
