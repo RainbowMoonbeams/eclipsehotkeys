@@ -15,10 +15,14 @@ git add . | adds all the files in the folder
 git commit -m "write a message" | notes to yourself about changes
 
 Open your GitHub & make a new repository.
+
 Name your new repository the same name as your file.
+
 Copy the link in "…or push an existing repository from the command line".
+
 Paste the link in GitBash by using Crtl + Shift + v
 
+command | explanation
 --------|--------
 git push | pushes the file upto GitHub
 
