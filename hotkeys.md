@@ -1,10 +1,10 @@
-###### obnoxious header!!
+# obnoxious header!!
 
-### - eclipse shortcuts* -
+## - eclipse shortcuts* -
 
-# guys, shortcuts are the wave of the future.
-# coding will be SO. MUCH. FASTERRRR
-# learn these tips and you'll be coding at lightening speed in no time!
+### guys, shortcuts are the wave of the future.
+#### coding will be SO. MUCH. FASTERRRR
+##### learn these tips and you'll be coding at lightening speed in no time!
 
 task | command
 --------------------|--------------------
