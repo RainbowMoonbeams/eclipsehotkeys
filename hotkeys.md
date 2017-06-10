@@ -19,13 +19,13 @@ Jump to method | Ctrl + Shift + up/down
 Move between words horizontally | Ctrl + left/right arrow
 Move to Beginning/End of document | Page Up/ Page Down
 Highlight entire line of code | Shift + Ctrl + Home/End (+ Up/Down to highlight code blocks)
+System.out.println(); | "Sout”, Ctrl + Space
 Fill-in/complete word | type a few letters, Ctrl + Space
 Move entire line/code block | highlight all, Alt + up or down arrow
 Format alignment | Ctrl + Shift + f
 New Project/Class/Anything... | Ctrl + n
 UNDO | Ctrl + z
 REDO | Ctrl + y
-System.out.println(); | "Sout”, Ctrl + Space
 COPY | Ctrl + c
 COPY & Delete | Ctrl + x
 PASTE | Ctrl + v
