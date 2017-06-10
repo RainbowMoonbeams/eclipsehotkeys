@@ -50,3 +50,5 @@ git add . | adds all the files in the folder
 git commit -m "write a message" | notes to yourself about changes
 git push | pushes the file upto GitHub
 git status | should return "working tree clean" (everything worked as expected)
+
+Refresh your GitHub page and you'll see the files you uploaded.
