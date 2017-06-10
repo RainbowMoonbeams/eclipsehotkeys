@@ -1,6 +1,6 @@
-# obnoxious header!!
+# obnoxious* header!!
 
-## - eclipse shortcuts* -
+## - eclipse shortcuts** -
 
 ### guys, shortcuts are the wave of the future.
 #### coding will be SO. MUCH. FASTERRRR
@@ -29,6 +29,6 @@ COPY | Ctrl + c
 COPY & Delete | Ctrl + x
 PASTE | Ctrl + v
 
-
-* this document is a work in progress! if you find any shortcuts, let me know and I'll add them to the list
-P.S. if you see any spelling errors, or if something isn't working correctly, let me know. I'm had a few drinks... :P
+* eclipse told me 'obnoxious' is 'not correctly spelled'... was it just trying to be... obnoxious???
+** this document is a work in progress! if you find any shortcuts, let me know and I'll add them to the list
+\nP.S. if you see any spelling errors, or if something isn't working correctly, let me know. I'm had a few drinks... :P
