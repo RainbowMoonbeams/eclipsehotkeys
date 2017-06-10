@@ -14,6 +14,7 @@ Delete current line | Ctrl + D
 Insert line above current line | Ctrl +Shift + Enter
 Switch Classes | Ctrl + j
 Find on page | Ctrl + f
+Close Window | Ctrl + w
 Jump to method | Ctrl + Shift + up/down
 Move between words horizontally | Ctrl + left/right arrow
 Move to Beginning/End of document | Page Up/ Page Down
